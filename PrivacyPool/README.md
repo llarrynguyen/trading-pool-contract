@@ -1,4 +1,4 @@
-# Synch Privacy Trading Pool Smart Contract
+# Privacy Trading Pool Smart Contract
 
 These smart contracts are in beta, please use for testing purpose only
 
@@ -17,4 +17,3 @@ These smart contracts are in beta, please use for testing purpose only
 ## How we achieve privacy
 We have one controller contract mesh all money from different pools together so when a trade happen, outsiders can not identify if the trade is for a particular pool. However we do need to submit a Keccak256 hash as a proof in the trade transaction so that later on, when fund withdraw to a particular pool, we reveal the information behind these hashes and everyone can check if the balance was correct.
 
-Synch Tech Team
