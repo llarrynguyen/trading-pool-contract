@@ -1,10 +1,10 @@
-# Synch Trading Pool Smart Contracts
+#Trading Pool Smart Contracts
 
-These smart contracts are in beta, please use it at your own risk.
+These smart contracts are in pre-beta.
 
-First standalone version was tested in the mainnet at March 3, 2021
+Tested on mainbet
 
-Auditing has not yet.
+Auditing not been done.
 
 ## Pool Choices
 1. Standalone pool
@@ -12,4 +12,3 @@ Auditing has not yet.
 2. Privacy pools
     System of smart contracts achieving the goal of privacy. Each system has 1 Synch Controller contract in charge of trading and storage and multiple Synch privacy pool contracts in charge of deposit/withdraw, synch security deposit and LP token issuance. Each trade request in Synch Controller has to contain a Keccak256 hash proof to help verify later on that the transaction was genuine
 
-Synch Tech Team
