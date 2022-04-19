@@ -1,4 +1,4 @@
-# Synch Standalone Trading Pool Smart Contract
+# Standalone Trading Pool Smart Contract
 
 This smart contract is in beta, please use for testing purpose only
 
@@ -18,4 +18,3 @@ First version was tested in the mainnet at March 3, 2021
 2. Every time airdrop occur, it will naturally inflate the synch deposit rate
 3. Not yet incorporate concept of epoch
 
-Synch Tech Team
